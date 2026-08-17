@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040084
+# Name:Divya K
+# Date:28-07-2026
 
 
 # AIM:
@@ -38,6 +38,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1890" height="977" alt="image" src="https://github.com/user-attachments/assets/809f04cb-1fa6-450b-bced-5fa2c1469b83" />
 
 
 
@@ -57,6 +58,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="1758" height="894" alt="image" src="https://github.com/user-attachments/assets/b5ed86cb-7ba5-4cef-b0ee-bbef5725996d" />
 
 
 
@@ -76,6 +78,7 @@ Package diagrams are structural diagrams used to show the organization and arran
 organization of the layered architecture within any UML classifier, such as a software system.
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
+<img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/d3ff19bc-2645-4eaa-8c46-b3f54d0fdab5" />
 
 
 
@@ -95,6 +98,7 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
+<img width="1915" height="989" alt="image" src="https://github.com/user-attachments/assets/7d8fa927-73e4-41da-af8c-7f50260b782b" />
 
 
 
@@ -118,6 +122,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1919" height="978" alt="image" src="https://github.com/user-attachments/assets/83c88c6c-92a1-4f85-871b-c2227341cf57" />
 
 
 
